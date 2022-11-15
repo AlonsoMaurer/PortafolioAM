@@ -2,6 +2,9 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+.card{
+    width: 100px;
+}
 .container-fluid img{
 width: 80px;
 }
@@ -43,6 +46,14 @@ color: black;
     color: #FFFFFF;
 }
 
+#carouselExampleIndicators{
+height: 50px;
+}
+
+.carousel-item img{
+height: 50px;
+}
+
 .btn{
 font-weight: 500;
 }
@@ -57,6 +68,11 @@ background-color: #28A745;
 
 .footer-text{
     font-weight: 300;
-    color: #707070;
+    color: #FDCFB3;
     text-align: center;
+    color: red;
+}
+
+.footer-text{
+    background-color: #28A745;
 }
