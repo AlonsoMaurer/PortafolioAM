@@ -1,0 +1,62 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid img{
+width: 80px;
+}
+
+.card-title{
+font-weight: 300;
+font-size: 20pt;
+color: black;
+}
+
+.card-text{
+    font-weight: 300;
+    font-size: 16pt;
+    color: #707070;
+    margin: 0;
+}
+
+.lugar p{
+    font-weight: 300;
+    font-size: 13pt;
+    color: #707070;
+}
+
+.precio-normal{
+    font-weight: 300;
+    font-size: 16pt;
+    color: #707070;
+}
+
+.precio-oferta{
+    font-weight: 500;
+    font-size: 20pt;
+    color: #28A745;
+}
+
+.form_titulo{
+    font-weight: 500;
+    font-size: 21pt;
+    color: #FFFFFF;
+}
+
+.btn{
+font-weight: 500;
+}
+
+.formulario{
+background-color: #28A745;
+}
+
+.footer img{
+    width: 80px;
+}
+
+.footer-text{
+    font-weight: 300;
+    color: #707070;
+    text-align: center;
+}
